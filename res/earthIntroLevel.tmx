@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="54" height="25" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="basicTiles" tilewidth="32" tileheight="32">
+  <image source="basicTiles.png" width="128" height="256"/>
+ </tileset>
+ <tileset firstgid="33" name="tmw_desert_spacing" tilewidth="32" tileheight="32" spacing="1">
+  <image source="tmw_desert_spacing.png" width="265" height="199"/>
+ </tileset>
+ <layer name="Background" width="54" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3BAQEAAACCIP+vbkhAAQAAAAB8GRy7eecYFQAA
+  </data>
+ </layer>
+ <layer name="Objects" width="54" height="25" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2Y4QrCMAyEI4qKCqJiJ5vv/5yuuEIIu5nVWKvk4BgbSZpvaX9sHRF1f+g75atV1NDEWKt9cz3nci4LORfOd65yci6c71zl5Fw437nKyblwfu1cp97n3pcZ+WvmqTVqn9de3I9xHZiTNqDecrC1ONciIz/QcxY39uwV13G47oSRctjTHmmYY48r4CBi+Xd3Y2z+rrg05yVxSceaW+EAYj/5f0I7Uy2XZCvNNLYH0PyirjO4eN1vMGnmJ89FTf3mzu8X+7fwA/dwyd4YFQAA
+  </data>
+ </layer>
+</map>
